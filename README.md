@@ -13,11 +13,11 @@
 9. 🍓用两个栈实现队列 -> https://leetcode.com/problems/implement-queue-using-stacks/
 10. 🍓斐波那契数列/青蛙跳台阶 -> https://leetcode.com/problems/fibonacci-number/
 11. 🍓旋转数组的最小数字 -> https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
-12. √矩阵中的路径 -> https://leetcode.com/problems/word-search/
+12. 🍓矩阵中的路径 -> https://leetcode.com/problems/word-search/
 13. 机器人的运动范围 -> 没找到 -> （中文版）https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/
-14. 剪绳子（dp） -> https://leetcode-cn.com/problems/integer-break/）
-15. √二进制中1的个数 -> https://leetcode.com/problems/number-of-1-bits/ ->（升级版）https://leetcode.com/problems/counting-bits/
-16. √数值的整数次方（溢出） -> https://leetcode.com/problems/powx-n/
+14. 🍓剪绳子（dp） -> https://leetcode-cn.com/problems/integer-break/）
+15. 二进制中1的个数 -> https://leetcode.com/problems/number-of-1-bits/ ->（升级版）https://leetcode.com/problems/counting-bits/
+16. 数值的整数次方（溢出） -> https://leetcode.com/problems/powx-n/
 17. 打印从1到最大的n位数（溢出） -> 没找到
 18. √删除链表的节点 ->（简单版）https://leetcode.com/problems/delete-node-in-a-linked-list/ ->（升级版）https://leetcode.com/problems/remove-linked-list-elements 
 19. ×正则表达式匹配 -> https://leetcode.com/problems/regular-expression-matching/
