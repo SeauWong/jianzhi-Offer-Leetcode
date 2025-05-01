@@ -4,15 +4,15 @@
 ## 本帖记录剑指offer在leetcode主站的原题。
 1. 无
 2. 无
-3. 数组中重复的数字 -> （中文版） https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/
-4. 二维数组中的查找 -> https://leetcode.com/problems/search-a-2d-matrix-ii/
-5. 替换空格 -> （中文版） https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
-6. 从尾到头打印链表 -> （中文版） https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/
-7. 重建二叉树 -> https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+3. 🍓数组中重复的数字 -> （中文版） https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/
+4. 🍓二维数组中的查找 -> https://leetcode.com/problems/search-a-2d-matrix-ii/
+5. 🍓替换空格 -> （中文版） https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
+6. 🍓从尾到头打印链表 -> （中文版） https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/
+7. 🍓重建二叉树 -> https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 8. 暂无
-9. 用两个栈实现队列 -> https://leetcode.com/problems/implement-queue-using-stacks/
-10. 斐波那契数列/青蛙跳台阶 -> https://leetcode.com/problems/fibonacci-number/
-11. 旋转数组的最小数字 -> https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
+9. 🍓用两个栈实现队列 -> https://leetcode.com/problems/implement-queue-using-stacks/
+10. 🍓斐波那契数列/青蛙跳台阶 -> https://leetcode.com/problems/fibonacci-number/
+11. 🍓旋转数组的最小数字 -> https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
 12. √矩阵中的路径 -> https://leetcode.com/problems/word-search/
 13. 机器人的运动范围 -> 没找到 -> （中文版）https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/
 14. 剪绳子（dp） -> https://leetcode-cn.com/problems/integer-break/）
