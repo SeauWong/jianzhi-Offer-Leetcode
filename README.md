@@ -16,11 +16,11 @@
 12. 🍓矩阵中的路径 -> https://leetcode.com/problems/word-search/
 13. 机器人的运动范围 -> 没找到 -> （中文版）https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/
 14. 🍓剪绳子（dp） -> https://leetcode-cn.com/problems/integer-break/）
-15. 二进制中1的个数 -> https://leetcode.com/problems/number-of-1-bits/ ->（升级版）https://leetcode.com/problems/counting-bits/
-16. 数值的整数次方（溢出） -> https://leetcode.com/problems/powx-n/
-17. 打印从1到最大的n位数（溢出） -> 没找到
-18. √删除链表的节点 ->（简单版）https://leetcode.com/problems/delete-node-in-a-linked-list/ ->（升级版）https://leetcode.com/problems/remove-linked-list-elements 
-19. ×正则表达式匹配 -> https://leetcode.com/problems/regular-expression-matching/
+15. 🍓二进制中1的个数 -> https://leetcode.com/problems/number-of-1-bits/ ->（升级版）https://leetcode.com/problems/counting-bits/
+16. 🍓数值的整数次方 -> https://leetcode.com/problems/powx-n/
+17. 打印从1到最大的n位数 -> 没找到
+18. 🍓删除链表的节点 ->（简单版）https://leetcode.com/problems/delete-node-in-a-linked-list/ ->（升级版）https://leetcode.com/problems/remove-linked-list-elements 
+19. 正则表达式匹配 -> https://leetcode.com/problems/regular-expression-matching/
 20. ×表示数值的字符串 -> https://leetcode.com/problems/valid-number/
 21. √调整数组顺序使奇数在偶数前 -> https://leetcode.com/problems/sort-array-by-parity
 22. √链表中倒数第K个节点 -> https://leetcode.com/problems/remove-nth-node-from-end-of-list/
