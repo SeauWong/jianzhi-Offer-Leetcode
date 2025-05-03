@@ -31,9 +31,9 @@
 27. 🍓二叉树的镜像 -> https://leetcode.com/problems/invert-binary-tree
 28. 🍓对称的二叉树 -> https://leetcode.com/problems/symmetric-tree/
 29. 🍓顺时针打印矩阵 -> https://leetcode.com/problems/spiral-matrix/
-30. 包含min函数的栈 -> https://leetcode.com/problems/min-stack/
-31. √栈的压入、弹出序列 ->* https://leetcode.com/problems/validate-stack-sequences/
-32. √从上到下打印二叉树 -> https://leetcode.com/problems/binary-tree-level-order-traversal/ -> 从下到上 https://leetcode.com/problems/binary-tree-level-order-traversal-ii/ -> 之字形打印 https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+30. 🍓包含min函数的栈 -> https://leetcode.com/problems/min-stack/
+31. 🍓栈的压入、弹出序列 -> https://leetcode.com/problems/validate-stack-sequences/
+32. 从上到下打印二叉树 -> https://leetcode.com/problems/binary-tree-level-order-traversal/ -> 从下到上 https://leetcode.com/problems/binary-tree-level-order-traversal-ii/ -> 之字形打印 https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 33. 二叉搜索树的后序遍历序列 -> （收费）https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/ -> （先序遍历）https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/
 34. 🍓 二叉树中和为某一值得路径 -> https://leetcode.com/problems/path-sum/
 35. √复杂链表的复制 -> https://leetcode.com/problems/copy-list-with-random-pointer/
