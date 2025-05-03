@@ -20,14 +20,14 @@
 16. 🍓数值的整数次方 -> https://leetcode.com/problems/powx-n/
 17. 打印从1到最大的n位数 -> 没找到
 18. 🍓删除链表的节点 ->（简单版）https://leetcode.com/problems/delete-node-in-a-linked-list/ ->（升级版）https://leetcode.com/problems/remove-linked-list-elements 
-19. 正则表达式匹配 -> https://leetcode.com/problems/regular-expression-matching/
+19. 🍓正则表达式匹配 -> https://leetcode.com/problems/regular-expression-matching/
 20. ×表示数值的字符串 -> https://leetcode.com/problems/valid-number/
-21. √调整数组顺序使奇数在偶数前 -> https://leetcode.com/problems/sort-array-by-parity
-22. 🍓 链表中倒数第K个节点 -> https://leetcode.com/problems/remove-nth-node-from-end-of-list/
-23. 链表中环的入口节点 -> https://leetcode.com/problems/linked-list-cycle-ii
-24. √反转链表 -> 只用了递归，下次用循环 https://leetcode.com/problems/reverse-linked-list/
-25. √合并两个排序的链表 -> https://leetcode.com/problems/merge-two-sorted-lists/
-26. √树的子结构 -> * https://leetcode.com/problems/subtree-of-another-tree/
+21. 🍓调整数组顺序使奇数在偶数前 -> https://leetcode.com/problems/sort-array-by-parity
+22. 🍓链表中倒数第K个节点 -> https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+23. 🍓链表中环的入口节点 -> https://leetcode.com/problems/linked-list-cycle-ii
+24. 🍓反转链表 -> 只用了递归，下次用循环 https://leetcode.com/problems/reverse-linked-list/
+25. 🍓合并两个排序的链表 -> https://leetcode.com/problems/merge-two-sorted-lists/
+26. 树的子结构 -> * https://leetcode.com/problems/subtree-of-another-tree/
 27. √二叉树的镜像 -> https://leetcode.com/problems/invert-binary-tree
 28. √对称的二叉树 -> https://leetcode.com/problems/symmetric-tree/
 29. √顺时针打印矩阵 -> https://leetcode.com/problems/spiral-matrix/
