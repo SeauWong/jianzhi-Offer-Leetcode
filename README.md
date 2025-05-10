@@ -43,8 +43,8 @@
 39. 🍓数组中出现次数超过一半的数字（摩尔投票法） -> https://leetcode.com/problems/majority-element/ -> 🍓 （升级版） https://leetcode.com/problems/majority-element-ii/
 40. 🍓最小的k个数 -> *（类似）https://leetcode.com/problems/kth-largest-element-in-an-array/
 41. 🍓数据流中的中位数 -> * https://leetcode.com/problems/find-median-from-data-stream/
-42. 连续子数组的最大和 -> https://leetcode.com/problems/maximum-subarray/
-43. √1~n整数中1出现的次数 -> https://leetcode.com/problems/number-of-digit-one/submissions/
+42. 🍓连续子数组的最大和 -> https://leetcode.com/problems/maximum-subarray/
+43. 🍓1~n整数中1出现的次数 -> https://leetcode.com/problems/number-of-digit-one/submissions/
 44. √数字序列中某一位的数字 -> https://leetcode.com/problems/nth-digit/
 45. √把数组排成最小的数 -> https://leetcode.com/problems/largest-number/
 46. √把数字翻译成字符串 -> (递归or动归) https://leetcode.com/problems/decode-ways/
