@@ -45,8 +45,8 @@
 41. 🍓数据流中的中位数 -> * https://leetcode.com/problems/find-median-from-data-stream/
 42. 🍓连续子数组的最大和 -> https://leetcode.com/problems/maximum-subarray/
 43. 🍓1~n整数中1出现的次数 -> https://leetcode.com/problems/number-of-digit-one/submissions/
-44. √数字序列中某一位的数字 -> https://leetcode.com/problems/nth-digit/
-45. √把数组排成最小的数 -> https://leetcode.com/problems/largest-number/
+44. 🍓数字序列中某一位的数字 -> https://leetcode.com/problems/nth-digit/
+45. 🍓把数组排成最小的数 -> https://leetcode.com/problems/largest-number/
 46. √把数字翻译成字符串 -> (递归or动归) https://leetcode.com/problems/decode-ways/
 47. 礼物最大值 -> 未找到 -> （中文版） https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/
 48. √最长不含重复字符的子字符串 -> https://leetcode.com/problems/longest-substring-without-repeating-characters/
