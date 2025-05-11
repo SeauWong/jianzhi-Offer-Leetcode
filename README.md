@@ -47,9 +47,9 @@
 43. 🍓1~n整数中1出现的次数 -> https://leetcode.com/problems/number-of-digit-one/submissions/
 44. 🍓数字序列中某一位的数字 -> https://leetcode.com/problems/nth-digit/
 45. 🍓把数组排成最小的数 -> https://leetcode.com/problems/largest-number/
-46. √把数字翻译成字符串 -> (递归or动归) https://leetcode.com/problems/decode-ways/
-47. 礼物最大值 -> 未找到 -> （中文版） https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/
-48. √最长不含重复字符的子字符串 -> https://leetcode.com/problems/longest-substring-without-repeating-characters/
+46. 🍓把数字翻译成字符串 -> (递归or动归) https://leetcode.com/problems/decode-ways/
+47. 🍓礼物最大值 -> 未找到 -> （中文版） https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/
+48. 最长不含重复字符的子字符串 -> https://leetcode.com/problems/longest-substring-without-repeating-characters/
 49. √丑数 -> （有更好的解法）https://leetcode.com/problems/ugly-number-ii/
 50. √第一个只出现一次的字符 ->  https://leetcode.com/problems/first-unique-character-in-a-string/
 51. 数组中的逆序对 -> （升级版）https://leetcode.com/problems/reverse-pairs/#/description
