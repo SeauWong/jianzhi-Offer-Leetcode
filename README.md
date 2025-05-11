@@ -49,9 +49,9 @@
 45. 🍓把数组排成最小的数 -> https://leetcode.com/problems/largest-number/
 46. 🍓把数字翻译成字符串 -> (递归or动归) https://leetcode.com/problems/decode-ways/
 47. 🍓礼物最大值 -> 未找到 -> （中文版） https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/
-48. 最长不含重复字符的子字符串 -> https://leetcode.com/problems/longest-substring-without-repeating-characters/
-49. √丑数 -> （有更好的解法）https://leetcode.com/problems/ugly-number-ii/
-50. √第一个只出现一次的字符 ->  https://leetcode.com/problems/first-unique-character-in-a-string/
+48. 🍓最长不含重复字符的子字符串 -> https://leetcode.com/problems/longest-substring-without-repeating-characters/
+49. 🍓丑数 -> （有更好的解法）https://leetcode.com/problems/ugly-number-ii/
+50. 🍓第一个只出现一次的字符 ->  https://leetcode.com/problems/first-unique-character-in-a-string/
 51. 数组中的逆序对 -> （升级版）https://leetcode.com/problems/reverse-pairs/#/description
 52. √两个链表的第一个公共节点 -> https://leetcode.com/problems/intersection-of-two-linked-lists/
 53. √在排序数组中查找数字 -> https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/
