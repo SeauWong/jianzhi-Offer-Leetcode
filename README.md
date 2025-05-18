@@ -57,11 +57,11 @@
 53. 🍓在排序数组中查找数字 -> https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/
 54. 🍓二叉搜索树的第K大节点 -> https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/
 55. 🍓二叉树的深度 -> https://leetcode.com/problems/maximum-depth-of-binary-tree/
-56. 数组中数字出现的次数 -> https://leetcode.com/problems/single-number-iii/
+56. 🍓数组中数字出现的次数 -> https://leetcode.com/problems/single-number-iii/
 57. 🍓和为S的数字 —> https://leetcode.com/problems/two-sum/
-58. 翻转字符串 -> https://leetcode.com/problems/reverse-words-in-a-string/
-59. 队列的最大值 -> https://leetcode.com/problems/sliding-window-maximum/
-60. n个骰子的点数 -> （中文版）https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/
+58. 🍓翻转字符串 -> https://leetcode.com/problems/reverse-words-in-a-string/
+59. 🍓队列的最大值 -> https://leetcode.com/problems/sliding-window-maximum/ (更高效的解法)
+60. 🍓n个骰子的点数 -> （中文版）https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/
 61. 扑克牌中的顺子 -> （中文版）https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/
 62. 圆圈中最后剩下的数字 -> （中文版） https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/
 63. 股票的最大利润 -> https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
